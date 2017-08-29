@@ -2,5 +2,5 @@ this is the example file
 if (i<n)
 then 
 echo "this is the real file"
- 
+this is the new line in this file 
 
