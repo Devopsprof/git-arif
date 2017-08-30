@@ -1,6 +1,8 @@
-this is the example file
+<html>
+<h1>this is the example file</h1>
 if (i<n)
 then 
 echo "this is the real file"
 this is the new line in this file 
+</html>
 
